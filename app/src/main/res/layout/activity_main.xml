@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:padding="10dp"
+    android:padding="5dp"
     tools:context=".MainActivity">
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -39,6 +39,8 @@
         android:layout_height="107dp"
         android:layout_alignBottom="@id/shopping"
         android:layout_marginBottom="-151dp"
+        android:paddingStart="5dp"
+        android:paddingEnd="5dp"
         android:text="SuperMazon is an Ecommerce store that sells cheap gloceries at an affordable price across the globe.
 we are world class super giant that makes shopping easy and fun.Grab yours now"
         android:textColor="#404040"
